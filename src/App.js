@@ -22,7 +22,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Hello StackBlitz!!!!</h1>
+      <h1>Hello StackBlitz!!</h1>
       <input
         type="text"
         name="employeename"

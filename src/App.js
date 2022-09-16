@@ -1,4 +1,5 @@
 import React from 'react';
+import Nav from './Nav';
 import './style.css';
 
 export default function App() {
@@ -34,6 +35,7 @@ export default function App() {
       {/* <label>{EmpName}</label> */}
       <span className="error">{greet}</span>
       {/* <p id="demo">{txtLength}</p> */}
+      <Nav />
     </div>
   );
 }
